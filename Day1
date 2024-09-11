@@ -1,7 +1,7 @@
 ﻿/*DAY2*/--
----Write a query to find users whose transactions has breached their credit limit
+---Write a query to find users whose transactions has breached their credit limit----
 
-use analyst
+use analyst 
 create table users
 (
  user_id int,
